@@ -92,3 +92,4 @@ user_song_list.h
 compile_commands.json
 .clangd/
 .cache/
+keyboards/nullbitsco/tidbit/keymaps/bongo_1000hz_vial/
